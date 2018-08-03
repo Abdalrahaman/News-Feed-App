@@ -14,7 +14,7 @@ They include:
 * Doing network operations independent of the Activity lifecycle
 
 # Build Your Project
-I use the **Guardian API** , To learn about the Guardian API and create new api-key, take a look at [The Guardian open platform](https://open-platform.theguardian.com/documentation/)
+I use the **Guardian API** , To learn about the Guardian API and create new api-key, take a look at [The Guardian open platform](https://open-platform.theguardian.com/documentation/).
 
 # Project Specification
-Your project will be evaluated using [Project Rubric](https://review.udacity.com/#!/rubrics/165/view)
+Your project will be evaluated using [Project Rubric](https://review.udacity.com/#!/rubrics/165/view).
